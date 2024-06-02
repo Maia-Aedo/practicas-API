@@ -1,0 +1,29 @@
+{
+  "name": "practicas-api",
+  "version": "1.0.0",
+  "description": "> [!NOTE]\r > Este repositorio contiene ejercicios de practicas trabajados en clase los cuales pueden no funcionar o estar actualizados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maia-Aedo/practicas-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maia-Aedo/practicas-API/issues"
+  },
+  "homepage": "https://github.com/Maia-Aedo/practicas-API#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.1"
+  },
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.2"
+  }
+}
